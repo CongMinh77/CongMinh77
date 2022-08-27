@@ -2,7 +2,7 @@
 
 My name's Minh Nguyen
 
-- 🔭 I’m currently graduated from Thang Long University
+- 🔭 I graduated from Thang Long University
 - 🌱 I’m currently learning Front-End and Laravel Back-End
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/minh-nguyencong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 - ⚡ Goals: Get an internship with Front-End or UI/UX Design. It's great experience.
