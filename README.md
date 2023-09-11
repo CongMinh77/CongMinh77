@@ -2,10 +2,10 @@
 
 My name's Minh Nguyen
 
-- 🔭 I graduated from Thang Long University
-- 🌱 I’m currently developer Front-End and Laravel Back-End
+- 🌱 I’m currently a Full-stack developer, I am developing web applications including educational applications and internal management software
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/minh-nguyencong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-- ⚡ Goals: Get an internship with Front-End or UI/UX Design. It's great experience.
+- ⚡ Purpose: Learn more and gain more experience
+- 🔭 I graduated with a good degree from Thang Long University,
 - 💼 Job: PHP Developer & React Developer in DEHA VietNam
 
 ### Languages and Tools 🛠
