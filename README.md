@@ -5,8 +5,8 @@ My name's Minh Nguyen
 - 🌱 Full-stack developer with 2 years of experience developing web applications including educational applications and internal management software, digital conversion applications.Utilizing strong technical skills along with logical thinking and creativity to create effective software solutions that meet client requirements.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/minh-nguyencong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 - ⚡ Purpose: Expand my knowledge and skills
-- 🔭 I graduated with a good degree from Thang Long University,
-- 💼 Job: PHP Developer & React Developer in DEHA VietNam
+- 🔭 I graduated with a Bachelor's degree in Computer Science, achieving a Good from Thang Long University
+- 💼 Job: Laravel Developer & React Developer in DEHA VietNam
 
 ### Languages and Tools 🛠
 
