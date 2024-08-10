@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-My name's Minh Nguyen
+<img src="https://profile-counter.glitch.me/CongMinh77/count.svg">
+
+My name's Minh Nguyen Cong
+
+![GitHub followers](https://img.shields.io/github/followers/CongMinh77)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&pause=1000&background=FFFFFF00&width=500&lines=I'm+Web+Developer)](https://git.io/typing-svg)
 
 - 🌱 Full-stack developer with 2 years of experience developing web applications including educational applications and internal management software, digital conversion applications. Utilizing strong technical skills along with logical thinking and creativity to create effective software solutions that meet client requirements.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/minh-nguyencong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 - ⚡ Purpose: Expand my knowledge and skills
 - 🔭 I graduated with a Bachelor's degree in Computer Science, achieving a Good from Thang Long University
 - 💼 Job: Laravel Developer & React Developer in DEHA VietNam
+
+
+### Coding statistic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CongMinh77&layout=donut-vertical)](https://github.com/CongMinh77/github-readme-stats)
 
 ### Languages and Tools 🛠
 
