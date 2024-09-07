@@ -14,11 +14,6 @@ My name's Minh Nguyen Cong
 - 🔭 I graduated with a Bachelor's degree in Computer Science, achieving a Good from Thang Long University
 - 💼 Job: Laravel Developer & React Developer in DEHA VietNam
 
-
-### Coding statistic
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CongMinh77&layout=donut-vertical)](https://github.com/CongMinh77/github-readme-stats)
-
 ### Languages and Tools 🛠
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
