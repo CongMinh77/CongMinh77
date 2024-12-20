@@ -8,8 +8,7 @@ My name's Minh Nguyen Cong
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&pause=1000&background=FFFFFF00&width=500&lines=I'm+Web+Developer)](https://git.io/typing-svg)
 
-- 🌱 Full-stack developer with 2 years of experience developing web applications including educational applications and internal management software, digital conversion applications. Utilizing strong technical skills along with logical thinking and creativity to create effective software solutions that meet client requirements.
-- ⚡ Purpose: Expand my knowledge and skills
+- 🌱 Fullstack Developer with nearly 3 years of experience in designing and developing both front-end and back-end solutions. Experienced in digital transformation, particularly in the fields of education, logistics, and business operations. Skilled in building scalable web applications, integrating third-party APIs, and optimizing performance for complex systems. Proficient in Laravel and React frameworks, with experience in managing databases using MySQL and Firebase. Experienced in handling server environments, especially Linux. Capable of collaborating with diverse teams to deliver high-quality software solutions that drive efficiency and innovation across various industries.
 - 🔭 I graduated with a Bachelor's degree in Computer Science, achieving a Good from Thang Long University
 - 💼 Job: Laravel Developer & React Developer in DEHA VietNam
 
