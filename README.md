@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/CongMinh77/count.svg">
-
 My name's Minh Nguyen Cong
 
 ![GitHub followers](https://img.shields.io/github/followers/CongMinh77)
