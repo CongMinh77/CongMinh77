@@ -17,7 +17,7 @@
 
 Full-Stack Developer with **4 years** of experience designing scalable front-end and back-end solutions. Focused on digital transformation across **education**, **logistics**, and **manufacturing** — building web apps, integrating third-party APIs, and optimizing complex systems.
 
-Currently **Fullstack Developer at DEHA VietNam** · B.Sc. Computer Science (Good) — Thang Long University.
+Currently **Fullstack Developer** · B.Sc. Computer Science (Good) — Thang Long University.
 
 <details>
 <summary>More about my work</summary>
